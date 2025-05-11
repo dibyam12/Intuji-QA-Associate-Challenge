@@ -1,0 +1,19 @@
+{
+  "name": "cypress-assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "cypress": "^14.3.3"
+  },
+  "devDependencies": {
+    "cypress-localstorage-commands": "^2.2.7"
+  }
+}
